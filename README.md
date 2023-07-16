@@ -1,10 +1,9 @@
-
 # AWS-CDK-Example
 
 参考URL<br>
 https://eh-career.com/engineerhub/entry/2023/04/27/093000
 
-# Welcome to your CDK TypeScript project
+## Welcome to your CDK TypeScript project
 
 This is a blank project for CDK development with TypeScript.
 
