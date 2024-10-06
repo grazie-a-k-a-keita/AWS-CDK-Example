@@ -1,6 +1,7 @@
-# AWS-CDK-Example
+# AWS CDK Example
 
-参考URL<br>
+参考URL
+
 https://eh-career.com/engineerhub/entry/2023/04/27/093000
 
 ## Welcome to your CDK TypeScript project
